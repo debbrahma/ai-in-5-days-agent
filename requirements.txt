@@ -1,0 +1,4 @@
+google-genai
+vertexai
+ortools
+pydantic
